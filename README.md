@@ -5,9 +5,9 @@ Demo images:
 ![mern7](https://github.com/Pumpkinmann/Image_Sharing/assets/96442304/02e21998-138c-4543-9a35-320da7500714)
 2. Initialization Page
 ![mern1](https://github.com/Pumpkinmann/Image_Sharing/assets/96442304/097dbf3c-623a-4034-970e-3f94f1aa7202)
-3. Login Page
+3. Login Page & Signup
 ![mern2](https://github.com/Pumpkinmann/Image_Sharing/assets/96442304/8b51ca76-b564-4c3e-b47f-cd01c92a9551)
-4. Signup Page and Places Display
+4. Places Display
 ![mern3](https://github.com/Pumpkinmann/Image_Sharing/assets/96442304/426f8d56-c81f-4faf-8662-4dedc0da58a2)
 ![mern5](https://github.com/Pumpkinmann/Image_Sharing/assets/96442304/e3982bc6-43e3-411b-b038-8348e3fbbe52)
 5. Create a Place
