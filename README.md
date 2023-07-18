@@ -1,5 +1,6 @@
 # Image_Sharing
-A full stack image sharing website that allows user to share online at any time. (Built from MERN guide on Udemy)
+A full stack image sharing website that allows user to share online at any time. (Self-studied relevant frameworks from Udemy)
+
 Demo images:
 1. Dashboard
 ![mern7](https://github.com/Pumpkinmann/Image_Sharing/assets/96442304/02e21998-138c-4543-9a35-320da7500714)
